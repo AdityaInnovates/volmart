@@ -1,3 +1,4 @@
+
 import { checkemail } from "./validateEmail";
 export function validateform(Allformdata) {
   const { email, password, contact, name } = Allformdata;

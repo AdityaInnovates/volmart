@@ -3,7 +3,7 @@ import "./css/login_signup.css"; // USE IS ON MODULE LEVEL IN LOGIN/SIGNUP
 import "./css/owl.css"; // USE IS ON MODULE LEVEL IN LOGIN/SIGNUP
 import "./css/productcarouselview.css"; // USE IS ON MODULE LEVEL IN LOGIN/SIGNUP
 import "./css/productscardview.css"; // USE IS ON MODULE LEVEL IN LOGIN/SIGNUP
-import Navbar from "../Components/MainComponents/navbar";
+import Navbar from "../Components/MainComponents/Navbar";
 import Script from "next/script";
 import Context from "../context/accessacc";
 import "owl.carousel/dist/assets/owl.carousel.css";
